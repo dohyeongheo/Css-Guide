@@ -1,8 +1,19 @@
-        section {
-            background-color: red;
-        }
+body {
+    font-family: 'Nanum Pen Script', cursive;
+}
 
-        h1 {
-            color: white;
-            font-family: 'Nanum Myeongjo', serif;
-        }
+#product-overview {
+    background-color: red;
+}
+
+.section-title {
+    color: #2ddf5c;
+}
+
+h1 {
+    color: white;
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+
+/* 상속은 어떤 요소가 부모 요소의 스타일을 상속한다는 뜻 */
